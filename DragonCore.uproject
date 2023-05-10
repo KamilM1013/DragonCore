@@ -43,6 +43,11 @@
 			"Name": "VaultIt",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7d19b5622d6846edb9881e6c89bce05e"
+		},
+		{
+			"Name": "LockOnTarget",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d58106fca28446ec88caad16c5a35fe8"
 		}
 	]
 }
