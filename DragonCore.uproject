@@ -23,12 +23,12 @@
 		},
 		{
 			"Name": "InteractiveWorld",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6fef18d187bf4942abad64f2d98a9a73"
 		},
 		{
 			"Name": "CPathfinding",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c533ad0234c540fb81bdfa7bd55d3514"
 		},
 		{
@@ -41,12 +41,12 @@
 		},
 		{
 			"Name": "VaultIt",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7d19b5622d6846edb9881e6c89bce05e"
 		},
 		{
 			"Name": "LockOnTarget",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d58106fca28446ec88caad16c5a35fe8"
 		}
 	]
